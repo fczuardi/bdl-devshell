@@ -1,3 +1,3 @@
 # essential dependencies
-FROM alpine:latest as week1
+FROM alpine:latest as base
 RUN apk add bitcoin-cli jq
