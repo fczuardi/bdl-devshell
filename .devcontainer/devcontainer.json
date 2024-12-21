@@ -1,5 +1,5 @@
 {
   "build": {
-    "dockerfile": "../oci/dev.Containerfile"
+    "dockerfile": "../oci/week1.Containerfile"
   }
 }
